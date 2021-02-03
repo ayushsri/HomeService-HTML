@@ -23,3 +23,6 @@ All Html code in Index.html
 17)FORM
 18)INPUT
 19)TEXTAREA
+20)nav
+21)STRONG
+22)I
