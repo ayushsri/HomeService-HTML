@@ -1,4 +1,4 @@
-#Assignment-2
+# Assignment-2
 In this Assignment I have created CleanNow template using HTML.
 All Html code in Index.html
 
