@@ -1,7 +1,7 @@
 # House Helper
 In this Assignment I have created CleanNow template using HTML.
 All Html code in Index.html
-
+##You cab view the live page here: https://ayushsri.github.io/HomeService-HTML/Index.html
 ### HTML used in this Assignment:-
 ##### 1)HTML
 ##### 2)HEAD
